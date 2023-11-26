@@ -64,7 +64,7 @@
 
     (async() => {
       console.log("Cargando modelo...");
-      modelo = await tf.loadLayersModel("model.json");
+      modelo = await tf.loadLayersModel("https://raw.githubusercontent.com/LeonelValencia/clasificador-perros-gatos/d7471667d05490cccb88cd2cae756a6b062c86b6/model.json");
       console.log("Modelo cargado");
     })();
 
