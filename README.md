@@ -5,6 +5,9 @@ Este código fuente sirve como apoyo para el video de creación de un clasificad
 Este código representa el sitio web, una vez que se crea y entrena el modelo de inteligencia artificial con Python y Tensorflow, el cual es exportado a los archivos "json" y "bin".
 Puede utilizarse en el celular, solo apunta la cámara al perro o gato que quieres clasificar (puede ser una imagen de la computadora, una foto, o uno de verdad), lo hace todo en el explorador utilizando Tensorflow.js.
 
+![clasificador perros y gatos](https://github.com/LeonelValencia/clasificador-perros-gatos/assets/103957744/a947f7f9-0e53-40f7-b68e-67b025ece40c)
+
+
 ## Cómo utilizarlo
 
 ### Descargar el repositorio
